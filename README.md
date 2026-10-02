@@ -17,7 +17,7 @@ A través del procesamiento de datos, se aplicaron dos técnicas de representaci
 
 ## 🚀 Instrucciones de Ejecución (Google Colab)
 
-1. Abre `EvaluacionU1_Naveas_Benjamin.ipynb` en [Google Colab](https://colab.research.google.com/) con el botón **Open in Colab** del notebook (o desde *Archivo → Abrir cuaderno → GitHub*).
+1. Abre `EvaluacionU1_Naveas_Benjaminn.ipynb` en [Google Colab](https://colab.research.google.com/) con el botón **Open in Colab** del notebook (o desde *Archivo → Abrir cuaderno → GitHub*).
 2. Selecciona **Entorno de ejecución → Ejecutar todo**.
 
 El notebook usa el archivo `WA_Fn-UseC_-Telco-Customer-Churn.csv` si está en la sesión y, si no, lo descarga automáticamente desde este repositorio, por lo que no es necesario subirlo a mano.
